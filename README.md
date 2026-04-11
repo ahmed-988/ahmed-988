@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey there, I'm Ahmed Anany
 
-<!--
-**ahmed-988/ahmed-988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **DevOps Engineer | Cloud Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🔭 I’m currently working on improving my DevOps skills
+🌱 Currently learning **AWS, Kubernetes, Docker, Terraform**
+💬 Ask me about **DevOps & Cloud**
+⚡ Fun fact: *I'm a go-getter*
+
+---
+
+## 🛠️ Tools & Technologies
+
+* ☁️ AWS
+* 🐳 Docker
+* ☸️ Kubernetes
+* 🌍 Terraform
+* 🔧 Git & GitHub
+
+---
+
+## 📚 Certifications
+
+* AWS Certified Cloud Practitioner
+* Amazon Public Cloud Solutions Architect Diploma (NTI)
+* GitHub Foundations
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: [ahmedanany804@gmail.com](mailto:ahmedanany804@gmail.com)
+📱 Phone: +20 1149008372
+🌍 Location: Cairo, Egypt
+
+
