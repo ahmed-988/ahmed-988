@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ahmed Anany
 
-💻 **DevOps Engineer | Cloud Enthusiast**
+💻 **DevOps Engineer**
 
 ---
 
@@ -15,11 +15,9 @@
 
 ## 🛠️ Tools & Technologies
 
-* ☁️ AWS
-* 🐳 Docker
-* ☸️ Kubernetes
-* 🌍 Terraform
-* 🔧 Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,ansible,aws,terraform,docker,kubernetes,jenkins,github,prometheus,grafana" />
+</p>
 
 ---
 
